@@ -233,7 +233,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'hyperscan', u'Hyperscan Documentation',
-     [u'Intel Corporation'], 1)
+     [u'Intel Corporation'], 7)
 ]
 
 # If true, show URL addresses after external links.
